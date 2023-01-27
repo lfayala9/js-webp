@@ -1,2 +1,1 @@
-# js-webp
-practice
+# js-portfolio
